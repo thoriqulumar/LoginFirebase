@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "749345283047",
+    "firebase_url": "https://coba-login-thor.firebaseio.com",
+    "project_id": "coba-login-thor",
+    "storage_bucket": "coba-login-thor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749345283047:android:247551ed6b1cf3d8",
+        "android_client_info": {
+          "package_name": "com.example.loginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749345283047-5cafath246tf286m07hrjf0t8gqni5pt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginfirebase",
+            "certificate_hash": "092c2198a10cdd64e1791a194f3514ec61bf68a3"
+          }
+        },
+        {
+          "client_id": "749345283047-jpugohhhbbr1b8gldu0cvbd63b9u5ufs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX7zjO8p6g88icpDuitdRLpFz8xMEiVb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749345283047-jpugohhhbbr1b8gldu0cvbd63b9u5ufs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
